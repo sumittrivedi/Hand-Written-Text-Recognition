@@ -1,4 +1,4 @@
-import time as t
+import time
 import os
 from flask import Flask, render_template, request
 
